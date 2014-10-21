@@ -10,7 +10,7 @@
 	<!-- the jni header jniPlatform to use -->
 	<property name="jniPlatform" value="mac"/>
 	<!-- the compilerPrefix for the C & C++ compilers -->
-	<property name="compilerPrefix" value=""/>
+	<property name="compilerPrefix" value="/usr/bin/" />
 	<!--  the compilerSuffix for the C & C++ compilers -->	
 	<property name="compilerSuffix" value="" />	
 	
